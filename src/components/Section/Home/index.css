@@ -1,0 +1,31 @@
+.home {
+  display: flex;
+  background: linear-gradient(90deg, #673ab7 50%, white 50%);
+}
+
+.homeLeft {
+  width: 50vw;
+  height: 100vh;
+}
+
+.homeRight {
+  width: 50vw;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .home {
+    display: block;
+  }
+  .homeLeft {
+    width: 100vw;
+    height: 50vh;
+    background: #673ab7;
+  }
+  .homeRight {
+    width: 100vw;
+    height: 50vh;
+    background: white;
+  }
+}

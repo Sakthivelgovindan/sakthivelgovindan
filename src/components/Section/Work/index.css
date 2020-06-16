@@ -1,0 +1,31 @@
+.work {
+  display: flex;
+  background: linear-gradient(90deg, #673ab7 50%, white 50%);
+}
+
+.workLeft {
+  width: 50vw;
+  height: 100vh;
+}
+
+.workRight {
+  width: 50vw;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .work {
+    display: block;
+  }
+  .workLeft {
+    width: 100vw;
+    height: 50vh;
+    background: #673ab7;
+  }
+  .workRight {
+    width: 100vw;
+    height: 50vh;
+    background: white;
+  }
+}

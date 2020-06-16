@@ -1,0 +1,31 @@
+.contact {
+  display: flex;
+  background: linear-gradient(90deg, white 50%, #673ab7 50%);
+}
+
+.contactLeft {
+  width: 50vw;
+  height: 100vh;
+}
+
+.contactRight {
+  width: 50vw;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .contact {
+    display: block;
+  }
+  .contactLeft {
+    width: 100vw;
+    height: 50vh;
+    background: #673ab7;
+  }
+  .contactRight {
+    width: 100vw;
+    height: 50vh;
+    background: white;
+  }
+}
