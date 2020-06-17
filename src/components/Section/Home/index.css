@@ -1,16 +1,45 @@
 .home {
-  display: flex;
-  background: linear-gradient(90deg, #673ab7 50%, white 50%);
+  text-align: center;
+  background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
 }
 
 .homeLeft {
   width: 50vw;
   height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .homeRight {
   width: 50vw;
   height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.homeRight img {
+  margin-top: 10vh;
+}
+
+.homeText {
+  width: 100%;
+}
+
+.homeText p {
+  font-size: 3.75rem;
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+}
+
+.homeLine {
+  margin: auto;
+  background: white;
+  width: 61vh;
+  height: 4px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -28,4 +57,26 @@
     height: 50vh;
     background: white;
   }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #673ab7;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fff;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fff;
 }

@@ -1,16 +1,74 @@
 .about {
-  display: flex;
+  text-align: center;
   background: linear-gradient(90deg, white 50%, #673ab7 50%);
 }
 
 .aboutLeft {
   width: 50vw;
   height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .aboutRight {
   width: 50vw;
   height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.aboutImage {
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  border: 5px solid #e0e0de;
+  margin: auto;
+}
+
+.profileImage {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.aboutNameDetails {
+  margin-top: 20px;
+}
+
+.aboutName {
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.aboutText {
+  font-size: 3.75rem;
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  margin: 0;
+}
+
+.aboutLine {
+  margin: auto;
+  background: white;
+  width: 27vh;
+  height: 4px;
+}
+
+.aboutDescription {
+  font-size: 1.1rem;
+  color: white;
+  text-align: justify;
+  font-weight: 400;
+  letter-spacing: 1.5;
+  line-height: 1.5;
+  padding: 5px 50px;
 }
 
 @media only screen and (max-width: 768px) {

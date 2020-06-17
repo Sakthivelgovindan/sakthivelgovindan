@@ -4,6 +4,7 @@ import Home from "./components/Section/Home";
 import Work from "./components/Section/Work";
 import Contact from "./components/Section/Contact";
 import About from "./components/Section/About";
+import "./index.css";
 
 function App() {
   return (

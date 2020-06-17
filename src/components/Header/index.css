@@ -6,17 +6,34 @@
   position: fixed;
   top: 0;
   width: 100%;
+  border-bottom: 1px solid lightgray;
 }
 
 .headerLeft {
   float: left;
   padding: 10px;
+  font-weight: bold;
   color: #673ab7;
 }
 
 .headerRight {
   float: right;
   padding: 10px;
+  color: #673ab7;
+}
+
+.headerMenuList {
+  display: flex;
+  list-style: none;
+}
+
+.headerMenuTitle {
+  margin-right: 3vw;
+  color: gray;
+  cursor: pointer;
+}
+
+.headerMenuActive {
   color: #673ab7;
 }
 
