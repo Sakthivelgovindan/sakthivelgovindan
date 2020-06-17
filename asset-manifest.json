@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sakthivelgovindan/static/css/main.7985e30c.chunk.css",
+    "main.js": "/sakthivelgovindan/static/js/main.5987f98c.chunk.js",
+    "main.js.map": "/sakthivelgovindan/static/js/main.5987f98c.chunk.js.map",
+    "runtime-main.js": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js",
+    "runtime-main.js.map": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js.map",
+    "static/js/2.c206fde0.chunk.js": "/sakthivelgovindan/static/js/2.c206fde0.chunk.js",
+    "static/js/2.c206fde0.chunk.js.map": "/sakthivelgovindan/static/js/2.c206fde0.chunk.js.map",
+    "index.html": "/sakthivelgovindan/index.html",
+    "precache-manifest.14020c2a017f382fda856eef1c61e774.js": "/sakthivelgovindan/precache-manifest.14020c2a017f382fda856eef1c61e774.js",
+    "service-worker.js": "/sakthivelgovindan/service-worker.js",
+    "static/css/main.7985e30c.chunk.css.map": "/sakthivelgovindan/static/css/main.7985e30c.chunk.css.map",
+    "static/js/2.c206fde0.chunk.js.LICENSE.txt": "/sakthivelgovindan/static/js/2.c206fde0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154edfeb.js",
+    "static/js/2.c206fde0.chunk.js",
+    "static/css/main.7985e30c.chunk.css",
+    "static/js/main.5987f98c.chunk.js"
+  ]
+}
