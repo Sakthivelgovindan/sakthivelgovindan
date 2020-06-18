@@ -54,16 +54,56 @@
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .work {
-    display: block;
+    text-align: center;
+    background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
   }
+
   .workLeft {
-    width: 100vw;
-    height: 50vh;
-    background: #673ab7;
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
   }
+
   .workRight {
-    width: 100vw;
-    height: 50vh;
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
+  }
+
+  .languageDiv {
+    padding: 25px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .languageName {
+    background: #fff;
+    border-radius: 8px;
+    width: max-content;
+    padding: 10px;
+    margin-right: 10px;
+    color: #673ab7;
+  }
+
+  .workExperience {
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin: 0;
+  }
+
+  .workLine {
+    margin: auto;
     background: white;
+    width: 70vh;
+    height: 4px;
+    display: none;
   }
 }

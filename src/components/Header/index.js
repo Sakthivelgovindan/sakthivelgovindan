@@ -5,7 +5,11 @@ class Header extends React.Component {
   render() {
     return (
       <div className={"header"}>
-        <div className={"headerLeft"}>Sakthivel Govindan</div>
+        <div className={"headerLeft"}>
+          <ul className={"headerMenuList"}>
+            <li className="headerMenuTitle headerMenuActive">Welcome</li>
+          </ul>
+        </div>
         <div className={"headerRight"}>
           <ul className={"headerMenuList"}>
             <li className="headerMenuTitle headerMenuActive">Home</li>

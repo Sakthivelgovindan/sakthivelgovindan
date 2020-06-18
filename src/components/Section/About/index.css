@@ -74,16 +74,85 @@
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .about {
-    display: block;
+    text-align: center;
+    padding-top: 50px;
+    background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
   }
+
   .aboutLeft {
-    width: 100vw;
-    height: 50vh;
-    background: #673ab7;
+    width: 50vw;
+    height: 100vh;
+    margin-top: 30px;
+    display: contents;
+    vertical-align: middle;
   }
+
   .aboutRight {
-    width: 100vw;
-    height: 50vh;
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
+  }
+
+  .aboutImage {
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    border: 5px solid #e0e0de;
+    margin: auto;
+  }
+
+  .profileImage {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+  }
+
+  .aboutNameDetails {
+    margin-top: 20px;
+  }
+
+  .aboutName {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .aboutRole {
+    color: white;
+  }
+
+  .aboutText {
+    display: none;
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin: 0;
+  }
+
+  .aboutLine {
+    display: none;
+    margin: auto;
     background: white;
+    width: 27vh;
+    height: 4px;
+  }
+
+  .aboutDescription {
+    font-size: 1.1rem;
+    color: white;
+    text-align: justify;
+    padding: 0px 50px 50px;
+    margin: 0px;
+  }
+
+  .aboutLinkedIn {
+    display: none;
   }
 }

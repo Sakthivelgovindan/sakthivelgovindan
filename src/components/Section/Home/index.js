@@ -1,7 +1,7 @@
 import React from "react";
-import "./index.css";
+import { dynamicHomeImages } from "./../../../utils";
 
-import imageSvg from "./../../../assets/svg/image1.svg";
+import "./index.css";
 
 class Home extends React.Component {
   render() {
@@ -14,7 +14,10 @@ class Home extends React.Component {
           <div className={"homeLine"}></div>
         </div>
         <div className={"homeRight"}>
-          <img src={imageSvg} />,
+          <img
+            src={dynamicHomeImages[Math.floor(Math.random() * 6) + 0]}
+            className={"homeImage"}
+          />
         </div>
       </div>
     );

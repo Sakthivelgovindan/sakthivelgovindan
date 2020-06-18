@@ -47,19 +47,90 @@
   cursor: pointer;
 }
 
+.contactMobileRight {
+  display: none;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .contact {
-    display: block;
+    justify-content: space-between;
+    text-align: center;
+    background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
   }
+
   .contactLeft {
-    width: 100vw;
-    height: 50vh;
-    background: #673ab7;
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
+    position: relative;
+    order: 2;
   }
+
   .contactRight {
-    width: 100vw;
-    height: 50vh;
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
+    position: relative;
+    order: 1;
+  }
+
+  .contactMobileRight {
+    width: 50vw;
+    height: 100vh;
+    display: contents;
+    vertical-align: middle;
+    position: relative;
+    order: 2;
+  }
+
+  .contactText {
+    display: none;
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin: 0;
+  }
+
+  .contactLine {
+    margin: auto;
     background: white;
+    width: 44vh;
+    height: 4px;
+    display: none;
+  }
+
+  .contactSocialLink {
+    display: flex;
+    justify-content: center;
+    padding: 25px 15px;
+  }
+
+  .contactLink {
+    margin: 7px;
+    padding: 8px;
+    border-radius: 100%;
+    border: 2px solid #fff;
+    cursor: pointer;
+  }
+
+  .contactRightText {
+    display: block;
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin: 0;
+  }
+
+  .contactIcon {
+    color: white;
   }
 }

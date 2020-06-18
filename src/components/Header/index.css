@@ -2,7 +2,7 @@
   display: list-item;
   height: 8vh;
   background: white;
-  padding: 10px;
+  padding: 0px;
   position: fixed;
   top: 0;
   width: 100%;
@@ -11,14 +11,12 @@
 
 .headerLeft {
   float: left;
-  padding: 10px;
   font-weight: bold;
   color: #673ab7;
 }
 
 .headerRight {
   float: right;
-  padding: 10px;
   color: #673ab7;
 }
 
