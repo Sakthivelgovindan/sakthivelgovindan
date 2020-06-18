@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/sakthivelgovindan/static/css/main.c77b1e9e.chunk.css",
-    "main.js": "/sakthivelgovindan/static/js/main.c21cfc69.chunk.js",
-    "main.js.map": "/sakthivelgovindan/static/js/main.c21cfc69.chunk.js.map",
+    "main.css": "/sakthivelgovindan/static/css/main.11588a7e.chunk.css",
+    "main.js": "/sakthivelgovindan/static/js/main.b631d4bb.chunk.js",
+    "main.js.map": "/sakthivelgovindan/static/js/main.b631d4bb.chunk.js.map",
     "runtime-main.js": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js",
     "runtime-main.js.map": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js.map",
-    "static/js/2.8813c3a6.chunk.js": "/sakthivelgovindan/static/js/2.8813c3a6.chunk.js",
-    "static/js/2.8813c3a6.chunk.js.map": "/sakthivelgovindan/static/js/2.8813c3a6.chunk.js.map",
+    "static/js/2.b5d653d1.chunk.js": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js",
+    "static/js/2.b5d653d1.chunk.js.map": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js.map",
     "index.html": "/sakthivelgovindan/index.html",
-    "precache-manifest.0f50ef2175ce6db661fef73cd775c43e.js": "/sakthivelgovindan/precache-manifest.0f50ef2175ce6db661fef73cd775c43e.js",
+    "precache-manifest.7e61bb8b4b4c7cdcb469fb4aa4f6b07f.js": "/sakthivelgovindan/precache-manifest.7e61bb8b4b4c7cdcb469fb4aa4f6b07f.js",
     "service-worker.js": "/sakthivelgovindan/service-worker.js",
-    "static/css/main.c77b1e9e.chunk.css.map": "/sakthivelgovindan/static/css/main.c77b1e9e.chunk.css.map",
-    "static/js/2.8813c3a6.chunk.js.LICENSE.txt": "/sakthivelgovindan/static/js/2.8813c3a6.chunk.js.LICENSE.txt",
+    "static/css/main.11588a7e.chunk.css.map": "/sakthivelgovindan/static/css/main.11588a7e.chunk.css.map",
+    "static/js/2.b5d653d1.chunk.js.LICENSE.txt": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js.LICENSE.txt",
     "static/media/image1.svg": "/sakthivelgovindan/static/media/image1.daae1082.svg",
-    "static/media/profile.png": "/sakthivelgovindan/static/media/profile.fabdb834.png"
+    "static/media/image2.svg": "/sakthivelgovindan/static/media/image2.6565ada7.svg",
+    "static/media/image3.svg": "/sakthivelgovindan/static/media/image3.e5f445d9.svg",
+    "static/media/image4.svg": "/sakthivelgovindan/static/media/image4.6c508bda.svg",
+    "static/media/image5.svg": "/sakthivelgovindan/static/media/image5.8521bcb3.svg",
+    "static/media/image6.svg": "/sakthivelgovindan/static/media/image6.5caf1bbd.svg",
+    "static/media/profile1.png": "/sakthivelgovindan/static/media/profile1.fabdb834.png",
+    "static/media/profile2.png": "/sakthivelgovindan/static/media/profile2.b1f68a46.png"
   },
   "entrypoints": [
     "static/js/runtime-main.154edfeb.js",
-    "static/js/2.8813c3a6.chunk.js",
-    "static/css/main.c77b1e9e.chunk.css",
-    "static/js/main.c21cfc69.chunk.js"
+    "static/js/2.b5d653d1.chunk.js",
+    "static/css/main.11588a7e.chunk.css",
+    "static/js/main.b631d4bb.chunk.js"
   ]
 }
