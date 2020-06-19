@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdd16cac27ad5223f2f44253a13240bc",
+    "revision": "066e49f6076a52bbd68dd4fd59dae568",
     "url": "/sakthivelgovindan/index.html"
   },
   {
-    "revision": "cf78169bdbb02dceb2ae",
-    "url": "/sakthivelgovindan/static/css/main.a00c03f2.chunk.css"
+    "revision": "3d53b80e2ef4ccbca818",
+    "url": "/sakthivelgovindan/static/css/main.918b19b8.chunk.css"
   },
   {
     "revision": "ba265d715466d962a965",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf78169bdbb02dceb2ae",
+    "revision": "3d53b80e2ef4ccbca818",
     "url": "/sakthivelgovindan/static/js/main.d5f981b1.chunk.js"
   },
   {
