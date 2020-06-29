@@ -17,7 +17,7 @@ class Work extends React.Component {
         "MongoDB",
         "Hasura",
         "API",
-        "SQL",
+        "MySQL",
         "GraphQL",
       ],
     };
@@ -28,7 +28,7 @@ class Work extends React.Component {
     const shuffleLanguage = shuffle(language);
 
     return (
-      <div className={"work"}>
+      <div className={"work"} id={this.props.id}>
         <div className={"workLeft"}>
           <p className={"workExperience"}>Work experience</p>
           <div className={"workLine"}></div>

@@ -1,6 +1,6 @@
 .home {
   text-align: center;
-  background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
+  background: #673ab7;
 }
 
 .homeLeft {
@@ -24,7 +24,7 @@
 }
 
 .homeText p {
-  font-size: 3.75rem;
+  font-size: 1.75rem;
   color: white;
   text-align: center;
   font-weight: 400;
@@ -70,17 +70,17 @@
   .home {
     display: none;
     text-align: center;
-    background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
+    background: #673ab7;
   }
 
   .homeLeft {
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     display: contents;
   }
 
   .homeRight {
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     display: contents;
   }

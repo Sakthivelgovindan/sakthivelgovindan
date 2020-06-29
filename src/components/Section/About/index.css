@@ -76,22 +76,25 @@
   .about {
     text-align: center;
     padding-top: 50px;
-    background: linear-gradient(90deg, #673ab7 50%, #673ab7 50%);
+    background: #673ab7;
+    width: 100%;
   }
 
   .aboutLeft {
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     margin-top: 30px;
     display: contents;
     vertical-align: middle;
+    background: #673ab7;
   }
 
   .aboutRight {
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     display: contents;
     vertical-align: middle;
+    background: #673ab7;
   }
 
   .aboutImage {

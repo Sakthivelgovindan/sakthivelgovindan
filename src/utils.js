@@ -14,11 +14,14 @@ export const shuffle = (array) => {
 
 export const dynamicHomeImages = {
   0: require("./assets/svg/image1.svg"),
-  1: require("./assets/svg/image2.svg"),
+  1: require("./assets/svg/image1.svg"),
   2: require("./assets/svg/image3.svg"),
   3: require("./assets/svg/image4.svg"),
   4: require("./assets/svg/image5.svg"),
-  5: require("./assets/svg/image6.svg"),
+  5: require("./assets/svg/image4.svg"),
+  6: require("./assets/svg/image1.svg"),
+  7: require("./assets/svg/image4.svg"),
+  8: require("./assets/svg/image9.svg"),
 };
 
 export const dynamicProfileImages = {

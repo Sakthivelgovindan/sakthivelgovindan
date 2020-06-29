@@ -40,4 +40,8 @@
   .header {
     display: none;
   }
+
+  .headerMenuTitle {
+    margin-right: 0px;
+  }
 }

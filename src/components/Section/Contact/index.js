@@ -13,7 +13,7 @@ class Contact extends React.Component {
 
   render() {
     return (
-      <div className={"contact"}>
+      <div className={"contact"} id={this.props.id}>
         <div className={"contactMobileRight"}>
           <div>
             <p className={"contactRightText"}>Contact Us</p>
@@ -21,21 +21,41 @@ class Contact extends React.Component {
         </div>
         <div className={"contactLeft"}>
           <div className={"contactSocialLink"}>
-            <div className={"contactLink"}>
+            <a
+              href="https://www.facebook.com/profile.php?id=100008524065254"
+              target="_blank"
+              className={"contactLink"}
+            >
               <FaFacebook size={30} className={"contactIcon"} />
-            </div>
-            <div className={"contactLink"}>
+            </a>
+            <a
+              href="https://github.com/Sakthivelgovindan"
+              target="_blank"
+              className={"contactLink"}
+            >
               <FaGithub size={30} className={"contactIcon"} />
-            </div>
-            <div className={"contactLink"}>
+            </a>
+            <a
+              href="https://www.linkedin.com/in/sakthivel-govindan/"
+              target="_blank"
+              className={"contactLink"}
+            >
               <FaLinkedinIn size={30} className={"contactIcon"} />
-            </div>
-            <div className={"contactLink"}>
+            </a>
+            <a
+              href="https://www.instagram.com/sakthivel_pgs/"
+              target="_blank"
+              className={"contactLink"}
+            >
               <FaInstagram size={30} className={"contactIcon"} />
-            </div>
-            <div className={"contactLink"}>
+            </a>
+            <a
+              href="https://twitter.com/sakthi_pgs"
+              target="_blank"
+              className={"contactLink"}
+            >
               <FaTwitter size={30} className={"contactIcon"} />
-            </div>
+            </a>
           </div>
         </div>
         <div className={"contactRight"}>

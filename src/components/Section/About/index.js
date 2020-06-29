@@ -7,7 +7,7 @@ import "./index.css";
 class About extends React.Component {
   render() {
     return (
-      <div className={"about"}>
+      <div className={"about"} id={this.props.id}>
         <div className={"aboutLeft"}>
           <div className={"aboutImage"}>
             <img
@@ -18,7 +18,16 @@ class About extends React.Component {
           <div className={"aboutNameDetails"}>
             <p className={"aboutName"}>SAKTHIVEL GOVINDAN</p>
             <p className={"aboutRole"}>FULL STACK DEVELOPER</p>
-            <FaLinkedin size={25} color="#3f50b4" className={"aboutLinkedIn"} />
+            <a
+              href="https://www.linkedin.com/in/sakthivel-govindan/"
+              target="_blank"
+            >
+              <FaLinkedin
+                size={25}
+                color="#3f50b4"
+                className={"aboutLinkedIn"}
+              />
+            </a>
           </div>
         </div>
         <div className={"aboutRight"}>
@@ -26,11 +35,12 @@ class About extends React.Component {
             <p className={"aboutText"}>About</p>
             <div className={"aboutLine"}></div>
             <p className={"aboutDescription"}>
-              Mohan brings you two decades of In-depth experience in IT Design,
-              Implementation and Automation. He is a Master in Cloud, DevOps and
-              infrastructure Design with recognized expertise in all industrial
-              verticals viz. Banking, Retail, Telecom, E-commerce, Hardware,
-              Defence.
+              Hi, I'm Sakthivel Govindan. I started my career as a "Full Stack
+              Developer" in DesignQube. Passionate coding enthusiast.
+              An effective Logical thinker with Interpersonal, Analytical, and
+              problem-solving abilities. I started my development journey in
+              2015 from Information Technology Department, K.S.Rangasamy College
+              of Technology, Namakkal.
             </p>
           </div>
         </div>
