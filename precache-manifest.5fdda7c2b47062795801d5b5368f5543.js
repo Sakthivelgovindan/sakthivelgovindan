@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7485b6dce0cfac4a09447be6c13be1c6",
+    "revision": "56f3fd9a3d16d0c409680b33913f18bb",
     "url": "/sakthivelgovindan/index.html"
   },
   {
-    "revision": "6ce3ea5849770c00dd6e",
-    "url": "/sakthivelgovindan/static/css/main.c06e204b.chunk.css"
+    "revision": "cd883b79ca2e20ee9a10",
+    "url": "/sakthivelgovindan/static/css/main.30ece59f.chunk.css"
   },
   {
-    "revision": "ba265d715466d962a965",
-    "url": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js"
+    "revision": "cf435e6eac0fd3e82e9c",
+    "url": "/sakthivelgovindan/static/js/2.216f00e9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/sakthivelgovindan/static/js/2.b5d653d1.chunk.js.LICENSE.txt"
+    "url": "/sakthivelgovindan/static/js/2.216f00e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ce3ea5849770c00dd6e",
-    "url": "/sakthivelgovindan/static/js/main.b631d4bb.chunk.js"
+    "revision": "cd883b79ca2e20ee9a10",
+    "url": "/sakthivelgovindan/static/js/main.39399e65.chunk.js"
   },
   {
     "revision": "7cfce5b6845c8245b8e1",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "daae1082b4e7e8f66bef7535c7bb4152",
     "url": "/sakthivelgovindan/static/media/image1.daae1082.svg"
-  },
-  {
-    "revision": "6565ada77b0e9b4d1a818fa422fc43e9",
-    "url": "/sakthivelgovindan/static/media/image2.6565ada7.svg"
   },
   {
     "revision": "e5f445d9a4e4a3a088dac639f3d7cc4a",
@@ -44,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sakthivelgovindan/static/media/image5.8521bcb3.svg"
   },
   {
-    "revision": "5caf1bbd5d33bf770bacf5e866eedb87",
-    "url": "/sakthivelgovindan/static/media/image6.5caf1bbd.svg"
+    "revision": "6b3b5bbdacbe4e82a46254849e894fb5",
+    "url": "/sakthivelgovindan/static/media/image9.6b3b5bbd.svg"
   },
   {
     "revision": "fabdb834f32dc275c8e379b2de07182b",
