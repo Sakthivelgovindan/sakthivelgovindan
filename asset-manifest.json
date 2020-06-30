@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sakthivelgovindan/static/css/main.30ece59f.chunk.css",
-    "main.js": "/sakthivelgovindan/static/js/main.be87525c.chunk.js",
-    "main.js.map": "/sakthivelgovindan/static/js/main.be87525c.chunk.js.map",
-    "runtime-main.js": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js",
-    "runtime-main.js.map": "/sakthivelgovindan/static/js/runtime-main.154edfeb.js.map",
-    "static/js/2.216f00e9.chunk.js": "/sakthivelgovindan/static/js/2.216f00e9.chunk.js",
-    "static/js/2.216f00e9.chunk.js.map": "/sakthivelgovindan/static/js/2.216f00e9.chunk.js.map",
-    "index.html": "/sakthivelgovindan/index.html",
-    "precache-manifest.0bdc2fc1a084aca0866f49f9e101464c.js": "/sakthivelgovindan/precache-manifest.0bdc2fc1a084aca0866f49f9e101464c.js",
-    "service-worker.js": "/sakthivelgovindan/service-worker.js",
-    "static/css/main.30ece59f.chunk.css.map": "/sakthivelgovindan/static/css/main.30ece59f.chunk.css.map",
-    "static/js/2.216f00e9.chunk.js.LICENSE.txt": "/sakthivelgovindan/static/js/2.216f00e9.chunk.js.LICENSE.txt",
-    "static/media/image1.svg": "/sakthivelgovindan/static/media/image1.daae1082.svg",
-    "static/media/image3.svg": "/sakthivelgovindan/static/media/image3.e5f445d9.svg",
-    "static/media/image4.svg": "/sakthivelgovindan/static/media/image4.6c508bda.svg",
-    "static/media/image5.svg": "/sakthivelgovindan/static/media/image5.8521bcb3.svg",
-    "static/media/image9.svg": "/sakthivelgovindan/static/media/image9.6b3b5bbd.svg",
-    "static/media/profile1.png": "/sakthivelgovindan/static/media/profile1.fabdb834.png",
-    "static/media/profile2.png": "/sakthivelgovindan/static/media/profile2.b1f68a46.png"
+    "main.css": "/sakthivel/static/css/main.30ece59f.chunk.css",
+    "main.js": "/sakthivel/static/js/main.b3b5f2bf.chunk.js",
+    "main.js.map": "/sakthivel/static/js/main.b3b5f2bf.chunk.js.map",
+    "runtime-main.js": "/sakthivel/static/js/runtime-main.5b7c0c0d.js",
+    "runtime-main.js.map": "/sakthivel/static/js/runtime-main.5b7c0c0d.js.map",
+    "static/js/2.216f00e9.chunk.js": "/sakthivel/static/js/2.216f00e9.chunk.js",
+    "static/js/2.216f00e9.chunk.js.map": "/sakthivel/static/js/2.216f00e9.chunk.js.map",
+    "index.html": "/sakthivel/index.html",
+    "precache-manifest.637f37a892ef5bc43d57bf73615cac74.js": "/sakthivel/precache-manifest.637f37a892ef5bc43d57bf73615cac74.js",
+    "service-worker.js": "/sakthivel/service-worker.js",
+    "static/css/main.30ece59f.chunk.css.map": "/sakthivel/static/css/main.30ece59f.chunk.css.map",
+    "static/js/2.216f00e9.chunk.js.LICENSE.txt": "/sakthivel/static/js/2.216f00e9.chunk.js.LICENSE.txt",
+    "static/media/image1.svg": "/sakthivel/static/media/image1.daae1082.svg",
+    "static/media/image3.svg": "/sakthivel/static/media/image3.e5f445d9.svg",
+    "static/media/image4.svg": "/sakthivel/static/media/image4.6c508bda.svg",
+    "static/media/image5.svg": "/sakthivel/static/media/image5.8521bcb3.svg",
+    "static/media/image9.svg": "/sakthivel/static/media/image9.6b3b5bbd.svg",
+    "static/media/profile1.png": "/sakthivel/static/media/profile1.fabdb834.png",
+    "static/media/profile2.png": "/sakthivel/static/media/profile2.b1f68a46.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.154edfeb.js",
+    "static/js/runtime-main.5b7c0c0d.js",
     "static/js/2.216f00e9.chunk.js",
     "static/css/main.30ece59f.chunk.css",
-    "static/js/main.be87525c.chunk.js"
+    "static/js/main.b3b5f2bf.chunk.js"
   ]
 }
