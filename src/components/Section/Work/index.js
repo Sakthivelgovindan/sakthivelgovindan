@@ -30,7 +30,7 @@ class Work extends React.Component {
     return (
       <div className={"work"} id={this.props.id}>
         <div className={"workLeft"}>
-          <p className={"workExperience"}>Work experience</p>
+          <p className={"workExperience"}>Work knowledge</p>
           <div className={"workLine"}></div>
         </div>
         <div className={"workRight"}>
